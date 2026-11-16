@@ -21,5 +21,6 @@ Analyst roles in Dubai: business analysis, strategy and operations, BI, and cons
 
 | Project | What it shows |
 |---|---|
+| [Bank customer churn](https://github.com/AliKhan-1301/bank-churn-analysis) | Power BI dashboard and Python statistics on 10,000 customers. Churn is concentrated in ages 41 to 60, Germany and inactive members. |
 | [WTI crude oil and US CPI](https://github.com/AliKhan-1301/wti-cpi-econometrics) | Time-series econometrics in Stata. The regression looks significant, and the cointegration test shows it is probably spurious. |
 | [LT Foods equity research](https://github.com/AliKhan-1301/lt-foods-equity-research) | Ratio analysis, peer comparison, and beta and CAPM from 105 weekly returns in Excel. |
