@@ -16,3 +16,10 @@ Analyst roles in Dubai: business analysis, strategy and operations, BI, and cons
 | Dashboards | Power BI, Tableau |
 | Finance | DCF, CAPM, S&P Capital IQ |
 | Certifications | Dataiku Core Designer, Advanced Designer, ML Practitioner |
+
+## Projects
+
+| Project | What it shows |
+|---|---|
+| [WTI crude oil and US CPI](https://github.com/AliKhan-1301/wti-cpi-econometrics) | Time-series econometrics in Stata. The regression looks significant, and the cointegration test shows it is probably spurious. |
+| [LT Foods equity research](https://github.com/AliKhan-1301/lt-foods-equity-research) | Ratio analysis, peer comparison, and beta and CAPM from 105 weekly returns in Excel. |
